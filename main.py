@@ -26,7 +26,7 @@ with open(f"letter_templates/{chosen_letter}", "r") as letter_file:
     letter_contents = letter_contents.replace("[NAME]", birthdays_today.iloc[0]["name"])
     
 my_email = "opeola3333@gmail.com"
-password = "vxkazxwoqawettts"
+password = ""
 
 recipient_email = birthdays_today.iloc[0]["email"]
 
