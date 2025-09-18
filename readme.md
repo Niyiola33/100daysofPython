@@ -1,10 +1,3 @@
-Got it 👍 A **README** file is the first thing people see when they open your repo on GitHub. It explains what your project is about, how to use it, and any extra details.
-
-Here’s a simple but nice `README.md` for your **Birthday Wisher** project:
-
----
-
-```markdown
 # 🎉 Birthday Wisher
 `
 This project automatically sends birthday wishes via email using Python.  
